@@ -35,4 +35,4 @@ https://femalemaleidentifier-eegzbcxxivkudmnn56dgxu.streamlit.app/
 
 SAMSUNG_MANUAL_AI
 
-https://samsungmanual-kzpoejcbkrisq4yf3cam97.streamlit.app/
+https://manualchatbot-6exchx4jhabyxravijhmmp.streamlit.app/
