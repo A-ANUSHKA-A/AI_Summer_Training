@@ -5,7 +5,7 @@ https://imageclassification-2e5s6eztgybpso9vcnuz.streamlit.app/
 
 CNN_MALE_FEMALE_EYES
 	
-https://cnnmalefemaleeyes-dswcq3tyfdiviegzm8v4v7.streamlit.app/
+https://cnneyedetection-5wun6lxptmtw2zyk2qpvbz.streamlit.app/
 	
 
 EMPLOYEE_RETENTION_ANALYSIS
